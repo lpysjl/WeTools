@@ -1,0 +1,3 @@
+include ':Tools'
+include ':app'
+rootProject.name = "WeTools"
